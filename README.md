@@ -10,7 +10,7 @@ Rasa NLU is a Natural Language Understanding tool for understanding a text; in p
 
 Installing Rasa
   
-  pip3 install rasa_nlu --quiet --user
-  pip3 install coloredlogs sklearn_crfsuite spacy --quiet --user
-  python3 -m spacy download en --quiet --user
+ * pip3 install rasa_nlu --quiet --user 
+ * pip3 install coloredlogs sklearn_crfsuite spacy --quiet --user
+ * python3 -m spacy download en --quiet --user
 
